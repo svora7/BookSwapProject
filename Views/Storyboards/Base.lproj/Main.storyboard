@@ -32,7 +32,7 @@
         <scene sceneID="4nu-4X-B9U">
             <objects>
                 <navigationController id="aIP-yD-sqT" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Home" image="house.fill" catalog="system" id="b2i-iK-EY9"/>
+                    <tabBarItem key="tabBarItem" title="Home" image="house" catalog="system" id="b2i-iK-EY9"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="c8z-tv-TzI">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -97,7 +97,7 @@
         <scene sceneID="qN3-yu-NOn">
             <objects>
                 <navigationController id="Bxb-rU-zgK" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Post A Book" image="plus.circle.fill" catalog="system" id="L3x-RG-Oob"/>
+                    <tabBarItem key="tabBarItem" title="Post A Book" image="plus" catalog="system" id="L3x-RG-Oob"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="wtn-WJ-buv">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -114,7 +114,7 @@
         <scene sceneID="3kO-3t-h1W">
             <objects>
                 <navigationController id="hth-S4-GOb" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Profile" image="person.fill" catalog="system" id="saR-nl-vSH"/>
+                    <tabBarItem key="tabBarItem" title="Profile" image="person" catalog="system" id="saR-nl-vSH"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="CdP-og-Al6">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -129,9 +129,9 @@
         </scene>
     </scenes>
     <resources>
-        <image name="house.fill" catalog="system" width="128" height="106"/>
-        <image name="person.fill" catalog="system" width="128" height="120"/>
-        <image name="plus.circle.fill" catalog="system" width="128" height="121"/>
+        <image name="house" catalog="system" width="128" height="106"/>
+        <image name="person" catalog="system" width="128" height="117"/>
+        <image name="plus" catalog="system" width="128" height="113"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
